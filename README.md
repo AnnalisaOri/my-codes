@@ -25,7 +25,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 --
 ###  Tesi triennale: Dinamica di modelli di predazione e competizione
 
-**File pdf:** ['TESIDEFINITIVAORIANNALISA-2.pdf'](https://github.com/AnnalisaOri/Progetti/blob/main/TESIDEFINITIVAORIANNALISA-2.pdf)
+**File pdf:** [TESIDEFINITIVAORIANNALISA-2.pdf](https://github.com/AnnalisaOri/Progetti/blob/main/TESIDEFINITIVAORIANNALISA-2.pdf)
 
 **Codice latex:** ['latex.tex'](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
 
