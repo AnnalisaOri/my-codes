@@ -22,7 +22,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 ## Progetti  
 
---
+
 ###  Tesi triennale: Dinamica di modelli di predazione e competizione
 
 **File pdf:** [TESIDEFINITIVAORIANNALISA-2.pdf](https://github.com/AnnalisaOri/Progetti/blob/main/TESIDEFINITIVAORIANNALISA-2.pdf)
@@ -39,7 +39,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 [trea](https://github.com/AnnalisaOri/Progetti/blob/main/trea.m)
 
---
+
 ### 📊 **R**  
 - 📌 **Analisi del traffico **  
 
