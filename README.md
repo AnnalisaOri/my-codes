@@ -27,17 +27,17 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 **File pdf:** [TESIDEFINITIVAORIANNALISA-2.pdf](https://github.com/AnnalisaOri/Progetti/blob/main/TESIDEFINITIVAORIANNALISA-2.pdf)
 
-**Codice latex:** ['latex.tex'](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
+**Codice latex:** [latex.tex](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
 
 **Alcuni codici Matlab per la realizzazione dei grafici:** 
 
-['holtepolis.m'](https://github.com/AnnalisaOri/Progetti/blob/main/holtepolis.m) 
+[holtepolis.m](https://github.com/AnnalisaOri/Progetti/blob/main/holtepolis.m) 
 
-['secondocasodue.m'](https://github.com/AnnalisaOri/Progetti/blob/main/secondocasodue.m)
+[secondocasodue.m](https://github.com/AnnalisaOri/Progetti/blob/main/secondocasodue.m)
 
-['sistema1E2stabile.asv'](https://github.com/AnnalisaOri/Progetti/blob/main/sistema1E2stabile.asv)
+[sistema1E2stabile.asv](https://github.com/AnnalisaOri/Progetti/blob/main/sistema1E2stabile.asv)
 
-['trea'](https://github.com/AnnalisaOri/Progetti/blob/main/trea.m)
+[trea](https://github.com/AnnalisaOri/Progetti/blob/main/trea.m)
 
 --
 ### 📊 **R**  
