@@ -26,9 +26,8 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 ## 📊 Progetti  
 
 
-### 🐍 **Matlab**  
-- 📌 **Elaborazione modello SIRS**  
-- 📌 **Tesi triennale: Dinamica di modelli di predazione e competizione**  
+###  Tesi triennale: Dinamica di modelli di predazione e competizione
+**pdf:** ['tesi_triennale.pdf']
 
 
 ### 📊 **R**  
