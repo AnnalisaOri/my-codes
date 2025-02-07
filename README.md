@@ -17,7 +17,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
   - [Matlab](#Matlab)
   - [R](#r)  
   - [Excel](#excel)    
-- [Formazione](#Formazione)  
+- [Educazione](https://github.com/AnnalisaOri/my-codes/edit/main/README.md#-educazione)  
 - [Certificazioni](#Certificazioni)
 - [Contatti](#Contatti)
 
