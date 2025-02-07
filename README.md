@@ -1,6 +1,6 @@
-# 📊 Annalisa Ori   
+# Annalisa Ori   
 
-## 🧐 Introduzione  
+## Introduzione  
 Sono Annalisa Ori, ho 23 anni e fin da piccola sono sempre stata affascinata dai numeri e da come la realtà può essere spiegata attraverso essi. 
 
 Per questo mio interesse, ho conseguito una laurea triennale in Matematica e ora sto frequentando la laurea magistrale in Scienze Statistiche ed Economiche. 
@@ -11,10 +11,10 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 
 
-## 📌 Indice  
-- [Introduzione](https://github.com/AnnalisaOri/my-codes/blob/main/README.md#-introduzione) 
+## Indice  
+- [Introduzione](#Introduzione) 
 - [Progetti](#Progetti)  
-- [Educazione](https://github.com/AnnalisaOri/my-codes/edit/main/README.md#-educazione)  
+- [Educazione](#Educazione)  
 - [Certificazioni](#Certificazioni)
 - [Contatti](#Contatti)
 
