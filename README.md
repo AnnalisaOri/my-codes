@@ -32,7 +32,16 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 **Codice latex:** ['latex.tex'](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
 
-**Alcuni codici Matlab per la realizzazione dei grafici:** ['holtepolis.m'](https://github.com/AnnalisaOri/Progetti/blob/main/holtepolis.m)
+**Alcuni codici Matlab per la realizzazione dei grafici:** 
+
+['holtepolis.m'](https://github.com/AnnalisaOri/Progetti/blob/main/holtepolis.m) 
+
+['secondocasodue.m'](https://github.com/AnnalisaOri/Progetti/blob/main/secondocasodue.m)
+
+['sistema1E2stabile.asv'](https://github.com/AnnalisaOri/Progetti/blob/main/sistema1E2stabile.asv)
+
+['trea'](https://github.com/AnnalisaOri/Progetti/blob/main/trea.m)
+
 
 ### 📊 **R**  
 - 📌 **Analisi del traffico **  
