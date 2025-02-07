@@ -30,9 +30,9 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 **File pdf:** ['TESIDEFINITIVAORIANNALISA-2.pdf'](https://github.com/AnnalisaOri/Progetti/blob/main/TESIDEFINITIVAORIANNALISA-2.pdf)
 
-**Codice latex:** ['codice_latex](https://github.com/AnnalisaOri/my-codes/blob/main/codice_latex)
+**Codice latex:** ['latex.tex'](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
 
-**Alcuni codici Matlab per la realizzazione dei grafici:** ['holtepolis.m']
+**Alcuni codici Matlab per la realizzazione dei grafici:** ['holtepolis.m'](https://github.com/AnnalisaOri/Progetti/blob/main/holtepolis.m)
 
 ### 📊 **R**  
 - 📌 **Analisi del traffico **  
