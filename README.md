@@ -47,9 +47,16 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 ---
 
-## 🎓 Educazione
+## Educazione
 - Diploma presso Liceo Scientifico Giacomo Ulivi, Parma; 2015-2020; con votazione 100/100 con lode
 - Laurea Triennale in Matematica (L35) presso Università degli Studi di Parma; 09.2020-03.2024; con votazione 105/110
 - Laurea Magistrale in Scienze Statistiche ed Economiche (curriculum: mercati assicurativi e finanziari, LM82), presso Università degli Studi di Milano Bicocca; in corso
+
+---
+## Certificazioni
+---
+
+## Contatti
+
 
 
