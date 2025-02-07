@@ -12,7 +12,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 
 ## 📌 Indice  
-- [Introduzione](https://github.com/AnnalisaOri/my-codes/edit/main/README.md#-introduzione)  
+- [Introduzione](https://github.com/AnnalisaOri/my-codes/blob/main/README.md#-introduzione) 
 - [Progetti](#Progetti)  
 - [Educazione](https://github.com/AnnalisaOri/my-codes/edit/main/README.md#-educazione)  
 - [Certificazioni](#Certificazioni)
