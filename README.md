@@ -13,10 +13,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 ## 📌 Indice  
 - [Introduzione](https://github.com/AnnalisaOri/my-codes/edit/main/README.md#-introduzione)  
-- [Progetti](#Progetti)
-  - [Matlab](#Matlab)
-  - [R](#r)  
-  - [Excel](#excel)    
+- [Progetti](#Progetti)  
 - [Educazione](https://github.com/AnnalisaOri/my-codes/edit/main/README.md#-educazione)  
 - [Certificazioni](#Certificazioni)
 - [Contatti](#Contatti)
@@ -25,7 +22,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 ## Progetti  
 
-
+--
 ###  Tesi triennale: Dinamica di modelli di predazione e competizione
 
 **File pdf:** ['TESIDEFINITIVAORIANNALISA-2.pdf'](https://github.com/AnnalisaOri/Progetti/blob/main/TESIDEFINITIVAORIANNALISA-2.pdf)
@@ -42,13 +39,11 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 ['trea'](https://github.com/AnnalisaOri/Progetti/blob/main/trea.m)
 
-
+--
 ### 📊 **R**  
 - 📌 **Analisi del traffico **  
 
-### 📈 **Excel / Google Sheets**  
-- 📌 ** **  
-  
+
 
 ---
 
