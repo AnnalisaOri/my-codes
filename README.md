@@ -27,7 +27,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 
 ###  Tesi triennale: Dinamica di modelli di predazione e competizione
-**File pdf:** ['tesi_triennale.pdf'](https://github.com/AnnalisaOri/my-codes/blob/main/tesi_triennale.pdf)
+**File pdf:** ['TESIDEFINITIVAORIANNALISA-2.pdf'](TESIDEFINITIVAORIANNALISA-2.pdf)
 **Codice latex:** ['codice_latex](https://github.com/AnnalisaOri/my-codes/blob/main/codice_latex)
 **Alcuni codici Matlab per la realizzazione dei grafici:** ['holtepolis.m']
 
