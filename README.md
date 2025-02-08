@@ -55,7 +55,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 ---
 
 ## Contatti
-- LinkedIn: [@AnnalisaOri](www.linkedin.com/in/annalisa-ori-92b436292)
+- LinkedIn: [@AnnalisaOri](https://www.linkedin.com/in/annalisa-ori-92b436292)
 - Email: anni.ori@hotmail.it
 
 
