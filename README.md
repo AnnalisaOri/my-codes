@@ -25,6 +25,9 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 ###  Tesi triennale: Dinamica di modelli di predazione e competizione
 
+**Descrizione:** Ho modellizzato la dinamica di tre popolazioni tramite sistemi di equazioni differenziali ordinarie, ne ho studiato l'evoluzione mediante strumenti matematici 
+utili per lo studio qualitativo di modelli differenziali e ne ho rappresentato i risultati ottenuti mediante simulazioni numeriche Matlab.
+
 **File pdf:** [Tesi triennale](https://github.com/AnnalisaOri/Progetti/blob/main/Tesi%20triennale)
 
 **Codice latex:** [latex](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
@@ -36,6 +39,22 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 [Simulazione numerica 1 con piano di fase 3D per l'equilibrio E2](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
 
 [Piano di fase 2d per sottosistema y-z](https://github.com/AnnalisaOri/Progetti/blob/main/piano_yz_specialista.m)
+
+
+### MODELLO SIRS
+
+**Descrizione:** La diffusione di alcune pandemie, come quella del COVID-19, può essere, sotto ovvie ipotesi semplificative, modellizzata attraverso una variante del classico modello SIR. A differenza di quest'ultimo, il modello SIRS considera la possibilità che gli individui perdano l’immunità nel tempo e possano tornare suscettibili all’infezione.
+Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'evoluzione nel tempo del sistema in esame.
+
+**File pdf:** [Sirs](https://github.com/AnnalisaOri/Progetti/blob/main/SIRS.pdf)
+
+**Alcuni codici Matlab per la realizzazione dei grafici:** 
+
+[Simulazione numerica](https://github.com/AnnalisaOri/Progetti/blob/main/Simulazione_2%5C3D.m)
+
+[Ritratto di fase 1](https://github.com/AnnalisaOri/Progetti/blob/main/ritrattodifase1.m)
+
+
 
 
 ### 📊 **R**  
