@@ -33,7 +33,7 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 [Figura 2.28](https://github.com/AnnalisaOri/Progetti/blob/main/Figura2-28.m)
 
-[Simulazione numerica 1 con piano di fase 3D per l'equilibrio E_2](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
+[Simulazione numerica 1 con piano di fase 3D per l'equilibrio E2](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
 
 [Piano di fase 2d per sottosistema y-z](https://github.com/AnnalisaOri/Progetti/blob/main/piano_yz_specialista.m)
 
