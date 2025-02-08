@@ -25,19 +25,17 @@ In questo canale condivido i miei progetti personali realizzati durante gli anni
 
 ###  Tesi triennale: Dinamica di modelli di predazione e competizione
 
-**File pdf:** [TESI](https://github.com/AnnalisaOri/Progetti/blob/main/TESIDEFINITIVAORIANNALISA-2.pdf)
+**File pdf:** [Tesi triennale](https://github.com/AnnalisaOri/Progetti/blob/main/Tesi%20triennale)
 
-**Codice latex:** [latex.tex](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
+**Codice latex:** [latex](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
 
 **Alcuni codici Matlab per la realizzazione dei grafici:** 
 
-[holtepolis.m](https://github.com/AnnalisaOri/Progetti/blob/main/holtepolis.m) 
+[Figura 2.28](https://github.com/AnnalisaOri/Progetti/blob/main/Figura2-28.m)
 
-[secondocasodue.m](https://github.com/AnnalisaOri/Progetti/blob/main/secondocasodue.m)
+[Simulazione numerica 1 con piano di fase 3D per l'equilibrio $E_2$](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
 
-[sistema1E2stabile.asv](https://github.com/AnnalisaOri/Progetti/blob/main/sistema1E2stabile.asv)
-
-[trea](https://github.com/AnnalisaOri/Progetti/blob/main/trea.m)
+[Piano di fase 2d per sottosistema $y-z$](https://github.com/AnnalisaOri/Progetti/blob/main/piano_yz_specialista.m)
 
 
 ### 📊 **R**  
