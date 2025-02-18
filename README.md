@@ -57,9 +57,13 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 
 
 
-### 📊 **R**  
-- 📌 **Analisi del traffico **  
+### Analisi di una serie storica: ANDAMENTO DEL TRAFFICO STRADALE IN MINNESOTA
 
+**Descrizione:** L’obiettivo di questo elaborato è analizzare il traffico stradale in Minnesota, USA, in relazione a vari fattori come condizioni meteo, temperatura e giorni festivi/weekend. Inizialmente, ho condotto un'analisi esplorativa delle serie storiche, verificando la normalità, la stazionarietà e la presenza di trend e stagionalità. Successivamente, ho sviluppato diversi modelli, tra cui regressione lineare semplice, ARIMA, SARIMA e regARIMA. Infine, ho selezionato il modello migliore e l'ho utilizzato per prevedere l’andamento del traffico.
+
+**Dataset:** 
+
+**Codice R e conclusioni:** 
 
 
 ---
