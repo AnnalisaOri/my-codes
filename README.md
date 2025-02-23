@@ -65,8 +65,11 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 
 **Codice R e analisi:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20una%20serie%20storica%20.pdf)
 
-
-
+**Funzioni aggiuntive:** [Arch Test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20ARCHTest.txt)
+[PortmanteauQ test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20AutoPortmanteauQ.txt)
+[Sarima](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20PerfMetr_SARIMA.txt)
+[Sequence of dates](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20Sequence%20of%20dates.txt)
+[Custom aggregate](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20TS_custom_aggregate.txt)
 
 ---
 
