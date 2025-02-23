@@ -63,7 +63,9 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 
 **Dataset:** [Dati](https://github.com/AnnalisaOri/Progetti/blob/main/Metro_Interstate_Traffic_Volume.csv)
 
-**Codice R e conclusioni:** 
+**Codice R e analisi:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20una%20serie%20storica%20.pdf)
+
+
 
 
 ---
