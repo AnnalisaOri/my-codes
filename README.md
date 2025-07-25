@@ -82,10 +82,10 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 
 2. **Assicurazioni Vita**  
    - **Unit Linked**: calcolo dei caricamenti sul premio, suddivisione nei diversi fondi, e determinazione del valore minimo della quota di un fondo affinché il capitale pagabile in caso di sinistro sia superiore alla garanzia minima.  
-   - **Assicurazione mista rivalutabile**: calcolo del premio puro annuo (con evidenza delle componenti di rischio e risparmio), delle riserve matematiche a ciascun anniversario, della rivalutazione del capitale assicurato (sia con premio costante che rivalutabile) in base ai rendimenti della gestione separata.  
+   - **Assicurazione mista rivalutabile**: calcolo del premio puro annuo (con evidenza delle componenti di rischio e risparmio), delle riserve matematiche, della rivalutazione del capitale assicurato (sia con premio costante che rivalutabile) in base ai rendimenti della gestione separata.  
    - **Rivalutazione Cliquet e Best Of**: confronto tra i due meccanismi di rivalutazione del capitale assicurato in presenza di un tasso minimo garantito e di rendimenti variabili.  
 
-
+**File Excel:**  [File Excel](https://github.com/AnnalisaOri/Progetti/blob/main/assicurazioni.xlsx)
 
 ---
 
