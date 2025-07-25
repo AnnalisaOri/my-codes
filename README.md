@@ -71,6 +71,22 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 [Sequence of dates](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20Sequence%20of%20dates.txt)
 [Custom aggregate](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20TS_custom_aggregate.txt)
 
+
+### Progetto Excel - Economia delle Assicurazioni
+
+**Descrizione:** Il file Excel è organizzato per seguire i diversi temi del corso:
+1. **Assicurazioni Danni**  
+   - **Stima della riserva sinistri – Metodo della Catena (Chain-Ladder)**: a partire da un triangolo di Run-Off dei sinistri pagati, vengono stimati i fattori di sviluppo e completato il triangolo per determinare la riserva sinistri necessaria.  
+   - **Metodo della separazione**: la riserva viene ricalcolata separando la frequenza (numero di sinistri) dalla severità (importo medio), fornendo una valutazione più dettagliata.  
+   - **Conto tecnico ramo danni**: partendo dai dati di bilancio (premi, riserve, sinistri pagati, spese) vengono calcolate le grandezze tecniche mancanti (premi e sinistri di competenza, riserve finali, loss ratio, expense ratio, combined ratio).  
+
+2. **Assicurazioni Vita**  
+   - **Unit Linked**: calcolo dei caricamenti sul premio, suddivisione nei diversi fondi, e determinazione del valore minimo della quota di un fondo affinché il capitale pagabile in caso di sinistro sia superiore alla garanzia minima.  
+   - **Assicurazione mista rivalutabile**: calcolo del premio puro annuo (con evidenza delle componenti di rischio e risparmio), delle riserve matematiche a ciascun anniversario, della rivalutazione del capitale assicurato (sia con premio costante che rivalutabile) in base ai rendimenti della gestione separata.  
+   - **Rivalutazione Cliquet e Best Of**: confronto tra i due meccanismi di rivalutazione del capitale assicurato in presenza di un tasso minimo garantito e di rendimenti variabili.  
+
+
+
 ---
 
 ## Educazione
