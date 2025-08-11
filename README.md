@@ -72,6 +72,14 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 [Custom aggregate](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20TS_custom_aggregate.txt)
 
 
+### Analisi di modelli in forma State Space, filtro e smoother di Kalman
+**Descrizione:** Analisi e stima di modelli state space applicati alla serie storica delle portate annuali del Nilo, usando il pacchetto R KFAS. Include stima tramite massima verosimiglianza, filtraggio e smoothing con Kalman, e analisi di cambiamenti strutturali tramite variabili scalino.
+
+**Codice R e analisi:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20modelli%20State%20Space%20con%20KFAS.pdf)
+
+
+
+
 ### Progetto Excel - Economia delle Assicurazioni
 
 **Descrizione:** Il file Excel è organizzato per seguire i diversi temi del corso:
