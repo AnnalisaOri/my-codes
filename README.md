@@ -84,9 +84,9 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 
 **Descrizione:** Il file Excel è organizzato per seguire i diversi temi del corso:
 1. **Assicurazioni Danni**  
-   - **Stima della riserva sinistri – Metodo della Catena (Chain-Ladder)**: a partire da un triangolo di Run-Off dei sinistri pagati, vengono stimati i fattori di sviluppo e completato il triangolo per determinare la riserva sinistri necessaria.  
-   - **Metodo della separazione**: la riserva viene ricalcolata separando la frequenza (numero di sinistri) dalla severità (importo medio), fornendo una valutazione più dettagliata.  
-   - **Conto tecnico ramo danni**: partendo dai dati di bilancio (premi, riserve, sinistri pagati, spese) vengono calcolate le grandezze tecniche mancanti (premi e sinistri di competenza, riserve finali, loss ratio, expense ratio, combined ratio).  
+   - **Stima della riserva sinistri – Metodo della Catena (Chain-Ladder)**: a partire da un triangolo di Run-Off dei sinistri pagati
+   - **Metodo della separazione**: la riserva viene ricalcolata separando la frequenza (numero di sinistri) dalla severità (importo medio).  
+   - **Conto tecnico ramo danni**: partendo dai dati di bilancio (premi, riserve, sinistri pagati, spese) vengono calcolati premi e sinistri di competenza, riserve finali, loss ratio, expense ratio, combined ratio.  
 
 2. **Assicurazioni Vita**  
    - **Unit Linked**: calcolo dei caricamenti sul premio, suddivisione nei diversi fondi, e determinazione del valore minimo della quota di un fondo affinché il capitale pagabile in caso di sinistro sia superiore alla garanzia minima.  
