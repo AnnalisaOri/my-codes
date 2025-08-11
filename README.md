@@ -72,12 +72,15 @@ Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'e
 [Custom aggregate](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20TS_custom_aggregate.txt)
 
 
-### Analisi di modelli in forma State Space, filtro e smoother di Kalman
-**Descrizione:** Analisi e stima di modelli state space applicati alla serie storica delle portate annuali del Nilo, usando il pacchetto R KFAS. Include stima tramite massima verosimiglianza, filtraggio e smoothing con Kalman, e analisi di cambiamenti strutturali tramite variabili scalino.
+### Analisi di 2 modelli in forma State Space, filtro e smoother di Kalman
+
+**Descrizione prima analisi:** Analisi e stima di modelli state space applicati alla serie storica delle portate annuali del Nilo, usando il pacchetto R KFAS. Include stima tramite massima verosimiglianza, filtraggio e smoothing con Kalman, e analisi di cambiamenti strutturali tramite variabili scalino.
 
 **Codice R e analisi:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20modelli%20State%20Space%20con%20KFAS.pdf)
 
+**Descrizione seconda analisi:** Stima di un modello state space per la serie storica mensile delle macchie solari, incorporando un random walk integrato, una componente stagionale a dummy stocastiche e un ciclo stocastico persistente. Vengono prodotti grafici dettagliati delle componenti latenti ed effettuate previsioni a lungo termine con intervalli di confidenza.
 
+**Codice R e grafici:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspots.pdf)
 
 
 ### Progetto Excel - Economia delle Assicurazioni
