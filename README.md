@@ -77,33 +77,40 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 **Codice R e grafici:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspots.pdf)
 
 
-### Progetto Excel - Economia delle Assicurazioni
+### Project Excel - For the Insurance Economics exam
 
-**Descrizione:** Il file Excel è organizzato per seguire i diversi temi del corso:
-1. **Assicurazioni Danni**  
-   - **Stima della riserva sinistri – Metodo della Catena (Chain-Ladder)**: a partire da un triangolo di Run-Off dei sinistri pagati
-   - **Metodo della separazione**: la riserva viene ricalcolata separando la frequenza (numero di sinistri) dalla severità (importo medio).  
-   - **Conto tecnico ramo danni**: partendo dai dati di bilancio (premi, riserve, sinistri pagati, spese) vengono calcolati premi e sinistri di competenza, riserve finali, loss ratio, expense ratio, combined ratio.  
+**Description:** The Excel file is organized to follow the different topics of the course:
+1. **Non-Life Insurance**
+   - **Claims reserving – Chain-Ladder method**: based on a Run-Off triangle of paid claims.
+   - **Separation method**: the reserve is recalculated by separating frequency (number of claims) from severity (average claim amount).  
+   - **Technical account for P&C**: using financial statement data (premiums, reserves, paid claims, expenses) to calculate earned premiums and claims, final reserves, loss ratio, expense ratio, and combined ratio. 
 
-2. **Assicurazioni Vita**  
-   - **Unit Linked**: calcolo dei caricamenti sul premio, suddivisione nei diversi fondi, e determinazione del valore minimo della quota di un fondo affinché il capitale pagabile in caso di sinistro sia superiore alla garanzia minima.  
-   - **Assicurazione mista rivalutabile**: calcolo del premio puro annuo (con evidenza delle componenti di rischio e risparmio), delle riserve matematiche, della rivalutazione del capitale assicurato (sia con premio costante che rivalutabile) in base ai rendimenti della gestione separata.  
-   - **Rivalutazione Cliquet e Best Of**: confronto tra i due meccanismi di rivalutazione del capitale assicurato in presenza di un tasso minimo garantito e di rendimenti variabili.  
+
+2. **Life Insurance**  
+   - **Unit Linked**: calculation of premium loadings, allocation across funds, and determination of the minimum fund share so that the payable capital in case of a claim exceeds the minimum guarantee.
+   - **Revaluable mixed insurance**: calculation of the annual pure premium (highlighting risk and savings components), mathematical reserves, and capital revaluation (with constant or revaluable premium) based on the returns of the separate account. 
+   - **Cliquet and Best-Of revaluation**: comparison of the two capital revaluation mechanisms under a guaranteed minimum rate and variable returns.
 
 **File Excel:**  [File Excel](https://github.com/AnnalisaOri/Progetti/blob/main/assicurazioni.xlsx)
 
 ---
 
-## Educazione
-- Diploma presso Liceo Scientifico Giacomo Ulivi, Parma; 2015-2020; con votazione 100/100 con lode
-- Laurea Triennale in Matematica (L35) presso Università degli Studi di Parma; 09.2020-03.2024; con votazione 105/110
-- Laurea Magistrale in Scienze Statistiche ed Economiche (curriculum: mercati assicurativi e finanziari, LM82), presso Università degli Studi di Milano Bicocca; in corso
+## Education
+- High School Diploma at Liceo Scientifico Giacomo Ulivi, Parma; 2015–2020; graduated with 100/100 cum laude
+- Bachelor’s Degree in Mathematics (L35) at University of Parma; 09/2020–03/2024; grade: 105/110
+- Master’s Degree in Statistical and Economic Sciences (curriculum: Insurance and Financial Markets, LM82) at University of Milano-Bicocca; ongoing
 
 ---
-## Certificazioni
----
+## Certifications
+- IELTS, GENERAL TRAINING
+  Overall Band Score: 7 
+  CEFR level :C1
+  Date : 22/09/2025 
+  Test report form number : 25IT510906ORIA010G
 
-## Contatti
+  
+
+## Contacts
 - LinkedIn: [@AnnalisaOri](https://www.linkedin.com/in/annalisa-ori-92b436292)
 - Email: anni.ori@hotmail.it
 
