@@ -103,9 +103,13 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 ---
 ## Certifications
 - IELTS, GENERAL TRAINING
-  Overall Band Score: 7 
+  
+  Overall Band Score: 7
+  
   CEFR level :C1
-  Date : 22/09/2025 
+  
+  Date : 22/09/2025
+  
   Test report form number : 25IT510906ORIA010G
 
   
