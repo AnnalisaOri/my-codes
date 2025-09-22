@@ -1,54 +1,52 @@
 # Annalisa Ori   
 
-## Introduzione  
+## Introduction  
 I am Annalisa Ori, 23 years old, and I have been fascinated by numbers and by how reality can be explained through them since I was a child.
 Driven by this interest, I earned a Bachelor's degree in Mathematics and I am currently pursuing a Master's degree in Statistical and Economic Sciences. My academic path has allowed me to develop a solid understanding of fundamental theories as well as their practical applications.
 I am always looking for opportunities to expand my knowledge and analytical skills. On this channel, I share my personal projects developed during my years of study.
 
 
 
-## Indice  
-- [Introduzione](#Introduction) 
-- [Progetti](#Projects)  
-- [Educazione](#Education)  
-- [Certificazioni](#Certifications)
-- [Contatti](#Contact information)
+## Index  
+- [Introduction](#Introduction) 
+- [Projects](#Projects)  
+- [Education](#Education)  
+- [Certifications](#Certifications)
+- [Contacts](#Contacts)
 
 ---
 
-## Progetti  
+## Projects 
 
 
-###  Tesi triennale: Dinamica di modelli di predazione e competizione
+###  Bachelor’s Thesis: Dynamics of Predation and Competition Models
 
-**Descrizione:** Ho modellizzato la dinamica di tre popolazioni tramite sistemi di equazioni differenziali ordinarie, ne ho studiato l'evoluzione mediante strumenti matematici 
-utili per lo studio qualitativo di modelli differenziali e ne ho rappresentato i risultati ottenuti mediante simulazioni numeriche Matlab.
+**Descrizione:** Modeled the dynamics of three populations using systems of ordinary differential equations, analyzed their evolution with mathematical tools for qualitative study of differential models, and visualized the results through numerical simulations in MATLAB.
 
-**File pdf:** [Tesi triennale](https://github.com/AnnalisaOri/Progetti/blob/main/Tesi%20triennale)
+**File pdf (Italian version only):** [Bachelor’s Thesis](https://github.com/AnnalisaOri/Progetti/blob/main/Tesi%20triennale)
 
 **Codice latex:** [latex](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
 
-**Alcuni codici Matlab per la realizzazione dei grafici:** 
+**Some MATLAB code for creating graphs.:** 
 
-[Figura 2.28](https://github.com/AnnalisaOri/Progetti/blob/main/Figura2-28.m)
+[Picture 2.28](https://github.com/AnnalisaOri/Progetti/blob/main/Figura2-28.m)
 
-[Simulazione numerica 1 con piano di fase 3D per l'equilibrio E2](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
+[Numerical simulation 1 with 3D phase plane for equilibrium E2](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
 
-[Piano di fase 2d per sottosistema y-z](https://github.com/AnnalisaOri/Progetti/blob/main/piano_yz_specialista.m)
+[2D phase plane for the y–z subsystem](https://github.com/AnnalisaOri/Progetti/blob/main/piano_yz_specialista.m)
 
 
-### MODELLO SIRS
+### SIRS MODEL
 
-**Descrizione:** La diffusione di alcune pandemie, come quella del COVID-19, può essere, sotto ovvie ipotesi semplificative, modellizzata attraverso una variante del classico modello SIR. A differenza di quest'ultimo, il modello SIRS considera la possibilità che gli individui perdano l’immunità nel tempo e possano tornare suscettibili all’infezione.
-Grazie alla teoria della stabilità dei sistemi dinamici, ho potuto studiare l'evoluzione nel tempo del sistema in esame.
+**Descrizione:**  The spread of certain pandemics, such as COVID-19, can be modeled—under simplifying assumptions—using a variant of the classical SIR model. Unlike the SIR model, the SIRS model accounts for the possibility that individuals may lose immunity over time and become susceptible to infection again. Using the theory of dynamical system stability, I studied the temporal evolution of the system.
 
-**File pdf:** [Sirs](https://github.com/AnnalisaOri/Progetti/blob/main/SIRS.pdf)
+**File pdf (Italian version only):** [Sirs](https://github.com/AnnalisaOri/Progetti/blob/main/SIRS.pdf)
 
-**Alcuni codici Matlab per la realizzazione dei grafici:** 
+**Some MATLAB code for creating graphs:** 
 
-[Simulazione numerica](https://github.com/AnnalisaOri/Progetti/blob/main/Simulazione_2%5C3D.m)
+[Numerical simulation](https://github.com/AnnalisaOri/Progetti/blob/main/Simulazione_2%5C3D.m)
 
-[Ritratto di fase 1](https://github.com/AnnalisaOri/Progetti/blob/main/ritrattodifase1.m)
+[Phase portrait 1](https://github.com/AnnalisaOri/Progetti/blob/main/ritrattodifase1.m)
 
 
 
