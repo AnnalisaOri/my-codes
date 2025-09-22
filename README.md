@@ -1,22 +1,18 @@
 # Annalisa Ori   
 
 ## Introduzione  
-Sono Annalisa Ori, ho 23 anni e fin da piccola sono sempre stata affascinata dai numeri e da come la realtà può essere spiegata attraverso essi. 
-
-Per questo mio interesse, ho conseguito una laurea triennale in Matematica e ora sto frequentando la laurea magistrale in Scienze Statistiche ed Economiche. 
-Il mio percorso di studi mi ha permesso di sviluppare una solida comprensione delle teorie fondamentali e anche delle loro applicazioni pratiche. Ho imparato a lavorare con modelli matematici, analisi dei dati e metodi statistici avanzati, che mi hanno permesso di acquisire un'abilità nel riconoscere schemi e fare previsioni basate su dati numerici. La matematica non è solo una passione, ma un linguaggio attraverso il quale esploro e comprendo il mondo che ci circonda.
-
-Sono sempre alla ricerca di opportunità per espandere le mie conoscenze e competenze analitiche.
-In questo canale condivido i miei progetti personali realizzati durante gli anni dei miei studi. 
+I am Annalisa Ori, 23 years old, and I have been fascinated by numbers and by how reality can be explained through them since I was a child.
+Driven by this interest, I earned a Bachelor's degree in Mathematics and I am currently pursuing a Master's degree in Statistical and Economic Sciences. My academic path has allowed me to develop a solid understanding of fundamental theories as well as their practical applications.
+I am always looking for opportunities to expand my knowledge and analytical skills. On this channel, I share my personal projects developed during my years of study.
 
 
 
 ## Indice  
-- [Introduzione](#Introduzione) 
-- [Progetti](#Progetti)  
-- [Educazione](#Educazione)  
-- [Certificazioni](#Certificazioni)
-- [Contatti](#Contatti)
+- [Introduzione](#Introduction) 
+- [Progetti](#Projects)  
+- [Educazione](#Education)  
+- [Certificazioni](#Certifications)
+- [Contatti](#Contact information)
 
 ---
 
