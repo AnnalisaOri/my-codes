@@ -51,30 +51,32 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 
 
-### Analisi di una serie storica: ANDAMENTO DEL TRAFFICO STRADALE IN MINNESOTA
+### Analysis of a Time Series: ROAD TRAFFIC TRENDS IN MINNESOTA (I am currently working on translating this code into English.)
 
-**Descrizione:** L’obiettivo di questo elaborato è analizzare il traffico stradale in Minnesota, USA, in relazione a vari fattori come condizioni meteo, temperatura e giorni festivi/weekend. Inizialmente, ho condotto un'analisi esplorativa delle serie storiche, verificando la normalità, la stazionarietà e la presenza di trend e stagionalità. Successivamente, ho sviluppato diversi modelli, tra cui regressione lineare semplice, ARIMA, SARIMA e regARIMA. Infine, ho selezionato il modello migliore e l'ho utilizzato per prevedere l’andamento del traffico.
+**Description:** The aim of this project is to analyze road traffic in Minnesota, USA, in relation to various factors such as weather conditions, temperature, and holidays/weekends. Initially, I conducted an exploratory analysis of the time series, checking for normality, stationarity, and the presence of trends and seasonality. Subsequently, I developed several models, including simple linear regression, ARIMA, SARIMA, and regARIMA. Finally, I selected the best model and used it to forecast traffic trends.
 
 **Dataset:** [Dati](https://github.com/AnnalisaOri/Progetti/blob/main/Metro_Interstate_Traffic_Volume.csv)
 
-**Codice R e analisi:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20una%20serie%20storica%20.pdf)
+**Code R e analysis:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20una%20serie%20storica%20.pdf)
 
-**Funzioni aggiuntive:** [Arch Test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20ARCHTest.txt)
+**Functions:** [Arch Test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20ARCHTest.txt)
 [PortmanteauQ test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20AutoPortmanteauQ.txt)
 [Sarima](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20PerfMetr_SARIMA.txt)
 [Sequence of dates](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20Sequence%20of%20dates.txt)
 [Custom aggregate](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20TS_custom_aggregate.txt)
 
 
-### Analisi di 2 modelli in forma State Space, filtro e smoother di Kalman
+### Analysis of Two State-Space Models: Kalman Filter and Smoother (I am currently working on translating this code into English.)
 
-**Descrizione prima analisi:** Analisi e stima di modelli state space applicati alla serie storica delle portate annuali del Nilo, usando il pacchetto R KFAS. Include stima tramite massima verosimiglianza, filtraggio e smoothing con Kalman, e analisi di cambiamenti strutturali tramite variabili scalino.
+**Description 1:** Analysis and Estimation of State-Space Models Applied to the Annual Flow Series of the Nile River, Using the R Package KFAS.
+Includes estimation via maximum likelihood, Kalman filtering and smoothing, and structural change analysis using step variables.
 
-**Codice R e analisi:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20modelli%20State%20Space%20con%20KFAS.pdf)
+**Code R e analysis:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20modelli%20State%20Space%20con%20KFAS.pdf)
 
-**Descrizione seconda analisi:** Stima di un modello state space per la serie storica mensile delle macchie solari, incorporando un random walk integrato, una componente stagionale a dummy stocastiche e un ciclo stocastico persistente. Vengono prodotti grafici dettagliati delle componenti latenti ed effettuate previsioni a lungo termine con intervalli di confidenza.
+**Description 2:** Estimation of a State-Space Model for the Monthly Sunspot Time Series, Incorporating an Integrated Random Walk, a Seasonal Component with Stochastic Dummies, and a Persistent Stochastic Cycle.
+Detailed plots of latent components are produced, and long-term forecasts with confidence intervals are generated.
 
-**Codice R e grafici:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspots.pdf)
+**Codice R e graphs:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspots.pdf)
 
 
 ### Project Excel - For the Insurance Economics exam
