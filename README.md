@@ -91,7 +91,7 @@ I am always looking for opportunities to expand my knowledge and analytical skil
    - **Revaluable mixed insurance**: calculation of the annual pure premium (highlighting risk and savings components), mathematical reserves, and capital revaluation (with constant or revaluable premium) based on the returns of the separate account. 
    - **Cliquet and Best-Of revaluation**: comparison of the two capital revaluation mechanisms under a guaranteed minimum rate and variable returns.
 
-**File Excel:**  [File Excel](https://github.com/AnnalisaOri/Progetti/blob/main/assicurazioni.xlsx)
+**File Excel:**  [File Excel](https://github.com/AnnalisaOri/Progetti/blob/main/assicurazionieng.xlsx)
 
 ---
 
