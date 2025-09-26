@@ -76,7 +76,7 @@ Includes estimation via maximum likelihood, Kalman filtering and smoothing, and 
 **Description 2:** Estimation of a State-Space Model for the Monthly Sunspot Time Series, Incorporating an Integrated Random Walk, a Seasonal Component with Stochastic Dummies, and a Persistent Stochastic Cycle.
 Detailed plots of latent components are produced, and long-term forecasts with confidence intervals are generated.
 
-**Codice R e graphs:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspots.pdf)
+**Codice R e graphs:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspotseng.pdf)
 
 
 ### Project Excel - For the Insurance Economics exam
