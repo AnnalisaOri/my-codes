@@ -21,7 +21,7 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 ###  Bachelor’s Thesis: Dynamics of Predation and Competition Models
 
-**Descrizione:** Modeled the dynamics of three populations using systems of ordinary differential equations, analyzed their evolution with mathematical tools for qualitative study of differential models, and visualized the results through numerical simulations in MATLAB.
+**Description:** Modeled the dynamics of three populations using systems of ordinary differential equations, analyzed their evolution with mathematical tools for qualitative study of differential models, and visualized the results through numerical simulations in MATLAB.
 
 **File pdf (Italian version only):** [Bachelor’s Thesis](https://github.com/AnnalisaOri/Progetti/blob/main/Tesi%20triennale)
 
@@ -38,7 +38,7 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 ### SIRS MODEL
 
-**Descrizione:**  The spread of certain pandemics, such as COVID-19, can be modeled—under simplifying assumptions—using a variant of the classical SIR model. Unlike the SIR model, the SIRS model accounts for the possibility that individuals may lose immunity over time and become susceptible to infection again. Using the theory of dynamical system stability, I studied the temporal evolution of the system.
+**Description:**  The spread of certain pandemics, such as COVID-19, can be modeled—under simplifying assumptions—using a variant of the classical SIR model. Unlike the SIR model, the SIRS model accounts for the possibility that individuals may lose immunity over time and become susceptible to infection again. Using the theory of dynamical system stability, I studied the temporal evolution of the system.
 
 **File pdf (Italian version only):** [Sirs](https://github.com/AnnalisaOri/Progetti/blob/main/SIRS.pdf)
 
@@ -57,7 +57,7 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 **Dataset:** [Dati](https://github.com/AnnalisaOri/Progetti/blob/main/Metro_Interstate_Traffic_Volume.csv)
 
-**Code R e analysis:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20una%20serie%20storica%20.pdf)
+**R Code and analysis:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20una%20serie%20storica%20.pdf)
 
 **Functions:** [Arch Test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20ARCHTest.txt)
 [PortmanteauQ test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20AutoPortmanteauQ.txt)
@@ -71,15 +71,15 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 **Description 1:** Analysis and Estimation of State-Space Models Applied to the Annual Flow Series of the Nile River, Using the R Package KFAS.
 Includes estimation via maximum likelihood, Kalman filtering and smoothing, and structural change analysis using step variables.
 
-**Code R e analysis:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/StateSpaceModels.pdf)
+**R Code and analysis:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/StateSpaceModels.pdf)
 
 **Description 2:** Estimation of a State-Space Model for the Monthly Sunspot Time Series, Incorporating an Integrated Random Walk, a Seasonal Component with Stochastic Dummies, and a Persistent Stochastic Cycle.
 Detailed plots of latent components are produced, and long-term forecasts with confidence intervals are generated.
 
-**Codice R e graphs:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspotseng.pdf)
+**R Code and graphs:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspotseng.pdf)
 
 
-### Project Excel - For the Insurance Economics exam
+### Excel Project - For the Insurance Economics exam
 
 **Description:** The Excel file is organized to follow the different topics of the course:
 1. **Non-Life Insurance**
