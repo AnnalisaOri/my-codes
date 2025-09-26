@@ -18,46 +18,13 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 ## Projects 
 
-
-###  Bachelor’s Thesis: Dynamics of Predation and Competition Models
-
-**Description:** Modeled the dynamics of three populations using systems of ordinary differential equations, analyzed their evolution with mathematical tools for qualitative study of differential models, and visualized the results through numerical simulations in MATLAB.
-
-**File pdf (Italian version only):** [Bachelor’s Thesis](https://github.com/AnnalisaOri/Progetti/blob/main/Tesi%20triennale)
-
-**Codice latex:** [latex](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
-
-**Some MATLAB code for creating graphs.:** 
-
-[Picture 2.28](https://github.com/AnnalisaOri/Progetti/blob/main/Figura2-28.m)
-
-[Numerical simulation 1 with 3D phase plane for equilibrium E2](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
-
-[2D phase plane for the y–z subsystem](https://github.com/AnnalisaOri/Progetti/blob/main/piano_yz_specialista.m)
-
-
-### SIRS MODEL
-
-**Description:**  The spread of certain pandemics, such as COVID-19, can be modeled—under simplifying assumptions—using a variant of the classical SIR model. Unlike the SIR model, the SIRS model accounts for the possibility that individuals may lose immunity over time and become susceptible to infection again. Using the theory of dynamical system stability, I studied the temporal evolution of the system.
-
-**File pdf (Italian version only):** [Sirs](https://github.com/AnnalisaOri/Progetti/blob/main/SIRS.pdf)
-
-**Some MATLAB code for creating graphs:** 
-
-[Numerical simulation](https://github.com/AnnalisaOri/Progetti/blob/main/Simulazione_2%5C3D.m)
-
-[Phase portrait 1](https://github.com/AnnalisaOri/Progetti/blob/main/ritrattodifase1.m)
-
-
-
-
-### Analysis of a Time Series: ROAD TRAFFIC TRENDS IN MINNESOTA (I am currently working on translating this code into English.)
+### Analysis of a Time Series: ROAD TRAFFIC TRENDS IN MINNESOTA
 
 **Description:** The aim of this project is to analyze road traffic in Minnesota, USA, in relation to various factors such as weather conditions, temperature, and holidays/weekends. Initially, I conducted an exploratory analysis of the time series, checking for normality, stationarity, and the presence of trends and seasonality. Subsequently, I developed several models, including simple linear regression, ARIMA, SARIMA, and regARIMA. Finally, I selected the best model and used it to forecast traffic trends.
 
 **Dataset:** [Dati](https://github.com/AnnalisaOri/Progetti/blob/main/Metro_Interstate_Traffic_Volume.csv)
 
-**R Code and analysis:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20una%20serie%20storica%20.pdf)
+**R Code and analysis:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Minnesotaeng.pdf)
 
 **Functions:** [Arch Test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20ARCHTest.txt)
 [PortmanteauQ test](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20AutoPortmanteauQ.txt)
@@ -94,6 +61,39 @@ Detailed plots of latent components are produced, and long-term forecasts with c
    - **Cliquet and Best-Of revaluation**: comparison of the two capital revaluation mechanisms under a guaranteed minimum rate and variable returns.
 
 **File Excel:**  [File Excel](https://github.com/AnnalisaOri/Progetti/blob/main/assicurazionieng.xlsx)
+
+
+
+###  Bachelor’s Thesis: Dynamics of Predation and Competition Models
+
+**Description:** Modeled the dynamics of three populations using systems of ordinary differential equations, analyzed their evolution with mathematical tools for qualitative study of differential models, and visualized the results through numerical simulations in MATLAB.
+
+**File pdf (Italian version only):** [Bachelor’s Thesis](https://github.com/AnnalisaOri/Progetti/blob/main/Tesi%20triennale)
+
+**Codice latex:** [latex](https://github.com/AnnalisaOri/Progetti/blob/main/latex.tex)
+
+**Some MATLAB code for creating graphs.:** 
+
+[Picture 2.28](https://github.com/AnnalisaOri/Progetti/blob/main/Figura2-28.m)
+
+[Numerical simulation 1 with 3D phase plane for equilibrium E2](https://github.com/AnnalisaOri/Progetti/blob/main/sim1_E2stabile.asv)
+
+[2D phase plane for the y–z subsystem](https://github.com/AnnalisaOri/Progetti/blob/main/piano_yz_specialista.m)
+
+
+### SIRS MODEL
+
+**Description:**  The spread of certain pandemics, such as COVID-19, can be modeled—under simplifying assumptions—using a variant of the classical SIR model. Unlike the SIR model, the SIRS model accounts for the possibility that individuals may lose immunity over time and become susceptible to infection again. Using the theory of dynamical system stability, I studied the temporal evolution of the system.
+
+**File pdf (Italian version only):** [Sirs](https://github.com/AnnalisaOri/Progetti/blob/main/SIRS.pdf)
+
+**Some MATLAB code for creating graphs:** 
+
+[Numerical simulation](https://github.com/AnnalisaOri/Progetti/blob/main/Simulazione_2%5C3D.m)
+
+[Phase portrait 1](https://github.com/AnnalisaOri/Progetti/blob/main/ritrattodifase1.m)
+
+
 
 ---
 
