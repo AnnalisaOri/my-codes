@@ -66,7 +66,7 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 [Custom aggregate](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20TS_custom_aggregate.txt)
 
 
-### Analysis of Two State-Space Models: Kalman Filter and Smoother (I am currently working on translating this code into English.)
+### Analysis of Two State-Space Models: Kalman Filter and Smoother
 
 **Description 1:** Analysis and Estimation of State-Space Models Applied to the Annual Flow Series of the Nile River, Using the R Package KFAS.
 Includes estimation via maximum likelihood, Kalman filtering and smoothing, and structural change analysis using step variables.
