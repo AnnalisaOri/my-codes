@@ -71,7 +71,7 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 **Description 1:** Analysis and Estimation of State-Space Models Applied to the Annual Flow Series of the Nile River, Using the R Package KFAS.
 Includes estimation via maximum likelihood, Kalman filtering and smoothing, and structural change analysis using step variables.
 
-**Code R e analysis:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/Analisi%20di%20modelli%20State%20Space%20con%20KFAS.pdf)
+**Code R e analysis:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/StateSpaceModels.pdf)
 
 **Description 2:** Estimation of a State-Space Model for the Monthly Sunspot Time Series, Incorporating an Integrated Random Walk, a Seasonal Component with Stochastic Dummies, and a Persistent Stochastic Cycle.
 Detailed plots of latent components are produced, and long-term forecasts with confidence intervals are generated.
