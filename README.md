@@ -18,11 +18,27 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 ## Projects 
 
+### Binomial Option Pricing Model: From Discrete Time to Black-Scholes
+This repository presents a comprehensive, computational analysis of the Binomial Option Pricing Model (BOPM)—the essential discrete-time framework for derivatives valuation. Implemented using Python simulations in a Jupyter Notebook, this project bridges fundamental theoretical concepts with practical quantitative finance.
+
+**Key Focus Areas and Computational Demonstrations:** The code starts by modeling a simplified two-period market and gradually generalizes the framework to multiple time steps, offering a transparent view of core financial principles:
+
+**No-Arbitrage Principle**: We demonstrate the fundamental condition under which a market is free from riskless profit opportunities.
+
+**Market Completeness and Replication:** The project illustrates how a derivative's payoff can be perfectly replicated by a dynamic portfolio of the underlying stock and a risk-free bond, which ensures market completeness and unique asset pricing.
+
+**Convergence to Black-Scholes:** By increasing the number of time steps, the Python implementation clearly showcases the celebrated limit of the binomial model—its numerical convergence to the continuous-time Black-Scholes-Merton formula.
+
+**Jupiter Notebook:** [Analysis and Phyton code](https://github.com/AnnalisaOri/Progetti/blob/main/binomial_model_to_black_scholes.ipynb)
+
+
+
+
 ### Analysis of a Time Series: ROAD TRAFFIC TRENDS IN MINNESOTA
 
 **Description:** The aim of this project is to analyze road traffic in Minnesota, USA, in relation to various factors such as weather conditions, temperature, and holidays/weekends. Initially, I conducted an exploratory analysis of the time series, checking for normality, stationarity, and the presence of trends and seasonality. Subsequently, I developed several models, including simple linear regression, ARIMA, SARIMA, and regARIMA. Finally, I selected the best model and used it to forecast traffic trends.
 
-**Dataset:** [Dati](https://github.com/AnnalisaOri/Progetti/blob/main/Metro_Interstate_Traffic_Volume.csv)
+**Dataset:** [Data](https://github.com/AnnalisaOri/Progetti/blob/main/Metro_Interstate_Traffic_Volume.csv)
 
 **R Code and analysis:** [Quart document](https://github.com/AnnalisaOri/Progetti/blob/main/Minnesotaeng.pdf)
 
