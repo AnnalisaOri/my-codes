@@ -134,6 +134,6 @@ Detailed plots of latent components are produced, and long-term forecasts with c
 
 ## Contacts
 - LinkedIn: [@AnnalisaOri](https://www.linkedin.com/in/annalisa-ori-92b436292)
-- Email: anni.ori@hotmail.it
+- Email: annalisaori1@gmail.com
 
 
