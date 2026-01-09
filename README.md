@@ -1,7 +1,7 @@
 # Annalisa Ori   
 
 ## Introduction  
-I am Annalisa Ori, 23 years old, and I have been fascinated by numbers and by how reality can be explained through them since I was a child.
+I am Annalisa Ori, 24 years old, and I have been fascinated by numbers and by how reality can be explained through them since I was a child.
 Driven by this interest, I earned a Bachelor's degree in Mathematics and I am currently pursuing a Master's degree in Statistical and Economic Sciences. My academic path has allowed me to develop a solid understanding of fundamental theories as well as their practical applications.
 I am always looking for opportunities to expand my knowledge and analytical skills. On this channel, I share my personal projects developed during my years of study.
 
