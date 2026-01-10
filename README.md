@@ -18,6 +18,10 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 ## Projects 
 
+### Functions implemented in R and some exercises completed during the Risk Management course”
+Quarto document including implemented functions and exercises completed during the Risk Management course. Topics covered include:
+The mean-variance model; The efficient frontier and CAPM: constructing efficient portfolios in the general case, including the properties of the market portfolio and the Capital Market Line; The efficient frontier under portfolio constraints: short-selling restrictions and other trading constraints, and their impact on the efficient frontier; Main risk measures: Value-at-Risk, Expected Shortfall, and EVaR.
+
 ### Binomial Option Pricing Model: From Discrete Time to Black-Scholes
 This repository presents a comprehensive, computational analysis of the Binomial Option Pricing Model (BOPM)—the essential discrete-time framework for derivatives valuation. Implemented using Python simulations in a Jupyter Notebook, this project bridges fundamental theoretical concepts with practical quantitative finance.
 
