@@ -19,8 +19,14 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 ## Projects 
 
 ### Functions implemented in R and some exercises completed during the Risk Management course”
-Quarto document including implemented functions and exercises completed during the Risk Management course. Topics covered include:
-The mean-variance model; The efficient frontier and CAPM: constructing efficient portfolios in the general case, including the properties of the market portfolio and the Capital Market Line; The efficient frontier under portfolio constraints: short-selling restrictions and other trading constraints, and their impact on the efficient frontier; Main risk measures: Value-at-Risk, Expected Shortfall, and EVaR.
+
+**Contents:** Quarto document including implemented functions and exercises completed during the Risk Management course. Topics covered include: The mean-variance model; The efficient frontier and CAPM: constructing efficient portfolios in the general case, including the properties of the market portfolio and the Capital Market Line; The efficient frontier under portfolio constraints: short-selling restrictions and other trading constraints, and their impact on the efficient frontier; Main risk measures: Value-at-Risk, Expected Shortfall, and EVaR. Still being updated..
+
+**Dataset:**[File](https://github.com/AnnalisaOri/Progetti/blob/main/portfolio%20(1).csv)
+**Quart Document with Functions:** [Functions](https://github.com/AnnalisaOri/Progetti/blob/main/Risk%20Management%20funzioni.pdf)
+**Quart Document with Exercises:** [Exercises](https://github.com/AnnalisaOri/Progetti/blob/main/Esercizi%20risk%20management1.pdf)
+**Quart Document with Exercises 2:**[Exercises 2](https://github.com/AnnalisaOri/Progetti/blob/main/Risk%20Management%2C%20esercizi%202.pdf)
+
 
 ### Binomial Option Pricing Model: From Discrete Time to Black-Scholes
 This repository presents a comprehensive, computational analysis of the Binomial Option Pricing Model (BOPM)—the essential discrete-time framework for derivatives valuation. Implemented using Python simulations in a Jupyter Notebook, this project bridges fundamental theoretical concepts with practical quantitative finance.
