@@ -20,7 +20,7 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 ### Functions implemented in R and some exercises completed during the Risk Management course
 
-**Contents:** Quart document including functions implemented for Risk Management exam. Topics covered include: The mean-variance model; The efficient frontier and CAPM: constructing efficient portfolios in the general case, including the properties of the market portfolio and the Capital Market Line; The efficient frontier under portfolio constraints: short-selling restrictions and other trading constraints, and their impact on the efficient frontier; Main risk measures: Value-at-Risk, Expected Shortfall, and EVaR. 
+**Contents:** Quart document (italian version) including functions implemented for Risk Management exam. Topics covered include: The mean-variance model; The efficient frontier and CAPM: constructing efficient portfolios in the general case, including the properties of the market portfolio and the Capital Market Line; The efficient frontier under portfolio constraints: short-selling restrictions and other trading constraints, and their impact on the efficient frontier; Main risk measures: Value-at-Risk, Expected Shortfall, and EVaR. 
 
 **Quart Document with Functions:** [Functions](https://github.com/AnnalisaOri/Progetti/blob/main/Risk%20Management%20pf.pdf)
 
