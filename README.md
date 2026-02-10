@@ -52,18 +52,6 @@ This repository presents a comprehensive, computational analysis of the Binomial
 [Custom aggregate](https://github.com/AnnalisaOri/Progetti/blob/main/FN%20-%20TS_custom_aggregate.txt)
 
 
-### Analysis of Two State-Space Models: Kalman Filter and Smoother
-
-**Description 1:** Analysis and Estimation of State-Space Models Applied to the Annual Flow Series of the Nile River, Using the R Package KFAS.
-Includes estimation via maximum likelihood, Kalman filtering and smoothing, and structural change analysis using step variables.
-
-**R Code and analysis:** [Quart document, pdf](https://github.com/AnnalisaOri/Progetti/blob/main/StateSpaceModels.pdf)
-
-**Description 2:** Estimation of a State-Space Model for the Monthly Sunspot Time Series, Incorporating an Integrated Random Walk, a Seasonal Component with Stochastic Dummies, and a Persistent Stochastic Cycle.
-Detailed plots of latent components are produced, and long-term forecasts with confidence intervals are generated.
-
-**R Code and graphs:** [Quart document,pdf](https://github.com/AnnalisaOri/Progetti/blob/main/sunspotseng.pdf)
-
 
 ### Excel Project - For the Insurance Economics exam
 
