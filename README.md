@@ -18,6 +18,32 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 ## Projects 
 
+### Excel Project - For the Insurance Economics exam
+
+**Description:** The Excel file is organized to follow the different topics of the course:
+1. **Non-Life Insurance**
+   - **Claims reserving – Chain-Ladder method**: based on a Run-Off triangle of paid claims.
+   - **Separation method**: the reserve is recalculated by separating frequency (number of claims) from severity (average claim amount).  
+   - **Technical account for P&C**: using financial statement data (premiums, reserves, paid claims, expenses) to calculate earned premiums and claims, final reserves, loss ratio, expense ratio, and combined ratio. 
+
+
+2. **Life Insurance**  
+   - **Unit Linked**: calculation of premium loadings, allocation across funds, and determination of the minimum fund share so that the payable capital in case of a claim exceeds the minimum guarantee.
+   - **Revaluable mixed insurance**: calculation of the annual pure premium (highlighting risk and savings components), mathematical reserves, and capital revaluation (with constant or revaluable premium) based on the returns of the separate account. 
+   - **Cliquet and Best-Of revaluation**: comparison of the two capital revaluation mechanisms under a guaranteed minimum rate and variable returns.
+
+**File Excel:**  [File Excel](https://github.com/AnnalisaOri/Progetti/blob/main/assicurazionieng.xlsx)
+
+
+
+### DSGE CEE Model with and without Investment Adjustment Costs
+
+**Description:** This project was developed as part of a Macroeconomics course group assignment. We implement and analyze a Christiano-Eichenbaum-Evans (CEE) DSGE model in two alternative specifications: CEE model with and without investment adjustment costs. In particolar the models exclude real money balances and assume a monetary authority (ECB) that sets the nominal interest rate according to a Taylor rule. The objective is to implemente the models using MATLAB (Dynare) and to study the implications of investment adjustment costs for the model dynamics and to evaluate the model's ability to replicate the observed behavior of capacity utilization, compared then with the empirical measure obtained from the Federal Reserve Economic Data (FRED) database.
+
+**Code and analysis:**
+[Dynare implementation with investment adjustment costs](https://github.com/AnnalisaOri/Progetti/blob/main/gruppo2_modello1.mod)
+[Dynare implementation without investment adjustment costs](https://github.com/AnnalisaOri/Progetti/blob/main/gruppo2_modello2.mod)
+[pdf with graphs and results](https://github.com/AnnalisaOri/Progetti/blob/main/Progetto_gruppo2.pdf)
 
 
 
@@ -53,21 +79,6 @@ This repository presents a comprehensive, computational analysis of the Binomial
 
 
 
-### Excel Project - For the Insurance Economics exam
-
-**Description:** The Excel file is organized to follow the different topics of the course:
-1. **Non-Life Insurance**
-   - **Claims reserving – Chain-Ladder method**: based on a Run-Off triangle of paid claims.
-   - **Separation method**: the reserve is recalculated by separating frequency (number of claims) from severity (average claim amount).  
-   - **Technical account for P&C**: using financial statement data (premiums, reserves, paid claims, expenses) to calculate earned premiums and claims, final reserves, loss ratio, expense ratio, and combined ratio. 
-
-
-2. **Life Insurance**  
-   - **Unit Linked**: calculation of premium loadings, allocation across funds, and determination of the minimum fund share so that the payable capital in case of a claim exceeds the minimum guarantee.
-   - **Revaluable mixed insurance**: calculation of the annual pure premium (highlighting risk and savings components), mathematical reserves, and capital revaluation (with constant or revaluable premium) based on the returns of the separate account. 
-   - **Cliquet and Best-Of revaluation**: comparison of the two capital revaluation mechanisms under a guaranteed minimum rate and variable returns.
-
-**File Excel:**  [File Excel](https://github.com/AnnalisaOri/Progetti/blob/main/assicurazionieng.xlsx)
 
 
 
