@@ -42,7 +42,9 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 
 **Code and analysis:**
 [Dynare implementation with investment adjustment costs](https://github.com/AnnalisaOri/Progetti/blob/main/gruppo2_modello1.mod)
+
 [Dynare implementation without investment adjustment costs](https://github.com/AnnalisaOri/Progetti/blob/main/gruppo2_modello2.mod)
+
 [pdf with graphs and results](https://github.com/AnnalisaOri/Progetti/blob/main/Progetto_gruppo2.pdf)
 
 
