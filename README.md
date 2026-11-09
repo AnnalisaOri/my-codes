@@ -1,9 +1,16 @@
 # Annalisa Ori   
 
 ## Introduction  
-I am Annalisa Ori, 24 years old, and I have been fascinated by numbers and by how reality can be explained through them since I was a child.
-Driven by this interest, I earned a Bachelor's degree in Mathematics and I am currently pursuing a Master's degree in Statistical and Economic Sciences. My academic path has allowed me to develop a solid understanding of fundamental theories as well as their practical applications.
-I am always looking for opportunities to expand my knowledge and analytical skills. On this channel, I share my personal projects developed during my years of study.
+I am Annalisa Ori, 25 years old, and since I was a child, I have always been fascinated by numbers and by how reality can be explained through them.
+Driven by this interest, I hold a Bachelor's degree in Mathematics from the University of Parma and a Master's degree in Statistical and Economic Sciences from the University of Milano-Bicocca. My academic path has allowed me to develop a solid understanding of fundamental theories as well as their practical applications: Mathematics gave me rigour, attention to precision and a habit of abstract thinking, while Statistics taught me to work with real data, uncertain and imperfect as it is. 
+
+I've brought this approach into the workplace through two very different experiences. 
+At PwC Italy, as a Risk Capital and Reporting intern, I saw first-hand how quantitative analysis becomes a practical tool for measuring and managing risk. 
+At Barilla, as a Customer Data Analyst Intern, I worked with customer and market data, turning it into insights to support business decisions. 
+
+I am always looking for opportunities to expand my knowledge and analytical skills. 
+
+On this channel, I share my personal projects developed during my years of study.
 
 
 
@@ -17,6 +24,31 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 ---
 
 ## Projects 
+
+###  Master’s Thesis, "Macroeconomic Conditioning of Loss Given Default under IFRS9: Evidence from the Italian Banking System" 
+**Description:** This project develops IFRS 9 satellite models that link Loss Given Default (LGD) to macroeconomic conditions across four portfolio segments: Corporate, SME, Retail and Financial Institutions. The methodology is inspired by practices commonly adopted by financial institutions for forward-looking expected credit loss modelling: logit and Beta transformations of LGD, a structured selection of macroeconomic drivers and lags, diagnostic testing, and probability-weighted scenarios (baseline, adverse, positive) calibrated on Bank of Italy projections and EBA/ESRB stress-test shocks. The analysis uses only public, aggregated ECB data (31 quarterly observations) and is implemented in SAS.
+
+**Main findings:** the two-quarter lagged change in the 3-month Euribor is the most robust driver across all segments (significant at the 1% level), with adjusted R² between 0.52 and 0.64. Oil prices and the BTP yield add segment-specific information, and a COVID dummy captures heterogeneous effects. The results are in-sample and show that macroeconomic variables explain a relevant, but not exhaustive, share of LGD dynamics
+
+**File pdf (English version only):** [Master’s Thesis](https://github.com/AnnalisaOri/Progetti/blob/main/ORI_TESI.pdf)
+
+
+
+### Binomial Option Pricing Model: From Discrete Time to Black-Scholes
+This repository presents a comprehensive, computational analysis of the Binomial Option Pricing Model (BOPM)—the essential discrete-time framework for derivatives valuation. Implemented using Python simulations in a Jupyter Notebook, this project bridges fundamental theoretical concepts with practical quantitative finance.
+
+**Key Focus Areas and Computational Demonstrations:** The code starts by modeling a simplified two-period market and gradually generalizes the framework to multiple time steps, offering a transparent view of core financial principles:
+
+**No-Arbitrage Principle**: We demonstrate the fundamental condition under which a market is free from riskless profit opportunities.
+
+**Market Completeness and Replication:** The project illustrates how a derivative's payoff can be perfectly replicated by a dynamic portfolio of the underlying stock and a risk-free bond, which ensures market completeness and unique asset pricing.
+
+**Convergence to Black-Scholes:** By increasing the number of time steps, the Python implementation clearly showcases the celebrated limit of the binomial model—its numerical convergence to the continuous-time Black-Scholes-Merton formula.
+
+**Jupiter Notebook:** [Analysis and Phyton code](https://github.com/AnnalisaOri/Progetti/blob/main/binomial_model_to_black_scholes.ipynb)
+
+
+
 
 ### Excel Project - For the Insurance Economics exam
 
@@ -48,19 +80,6 @@ I am always looking for opportunities to expand my knowledge and analytical skil
 [pdf with graphs and results](https://github.com/AnnalisaOri/Progetti/blob/main/Progetto_gruppo2.pdf)
 
 
-
-### Binomial Option Pricing Model: From Discrete Time to Black-Scholes
-This repository presents a comprehensive, computational analysis of the Binomial Option Pricing Model (BOPM)—the essential discrete-time framework for derivatives valuation. Implemented using Python simulations in a Jupyter Notebook, this project bridges fundamental theoretical concepts with practical quantitative finance.
-
-**Key Focus Areas and Computational Demonstrations:** The code starts by modeling a simplified two-period market and gradually generalizes the framework to multiple time steps, offering a transparent view of core financial principles:
-
-**No-Arbitrage Principle**: We demonstrate the fundamental condition under which a market is free from riskless profit opportunities.
-
-**Market Completeness and Replication:** The project illustrates how a derivative's payoff can be perfectly replicated by a dynamic portfolio of the underlying stock and a risk-free bond, which ensures market completeness and unique asset pricing.
-
-**Convergence to Black-Scholes:** By increasing the number of time steps, the Python implementation clearly showcases the celebrated limit of the binomial model—its numerical convergence to the continuous-time Black-Scholes-Merton formula.
-
-**Jupiter Notebook:** [Analysis and Phyton code](https://github.com/AnnalisaOri/Progetti/blob/main/binomial_model_to_black_scholes.ipynb)
 
 
 
