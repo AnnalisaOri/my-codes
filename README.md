@@ -32,7 +32,7 @@ On this channel, I share my personal projects developed during my years of study
 
 **File pdf (English version only):** [Master’s Thesis](https://github.com/AnnalisaOri/Progetti/blob/main/ORI_TESI.pdf)
 
-**SAS code:**
+**Codes (SAS):**
 
 	1. [Code 01: Data Preparation](https://github.com/AnnalisaOri/Progetti/blob/main/01_data_preparation.sas): Imports the ECB IRB LGD series (Retail, SME, Corporate, Financial Institutions) and the macro-financial series, merges them by quarter, and builds the modelling dataset: first differences, lags up to eight quarters, logit-transformed LGD and the Covid dummy.
 	2.	[Code 02: Diagnostic and variable selection](https://github.com/AnnalisaOri/Progetti/blob/main/02_diagnostics_and_variable_selection.sas): Time-series diagnostics (descriptive statistics, normality, autocorrelation, ADF tests), lag screening of each candidate regressor, multicollinearity check (VIF) and a LASSO robustness check on all candidate variables and lags.
