@@ -139,7 +139,7 @@ This repository presents a comprehensive, computational analysis of the Binomial
 ## Education
 - High School Diploma at Liceo Scientifico Giacomo Ulivi, Parma; 2015–2020; graduated with 100/100 cum laude
 - Bachelor’s Degree in Mathematics (L35) at University of Parma; 09/2020–03/2024; grade: 105/110
-- Master’s Degree in Statistical and Economic Sciences (curriculum: Insurance and Financial Markets, LM82) at University of Milano-Bicocca; ongoing
+- Master’s Degree in Statistical and Economic Sciences (curriculum: Insurance and Financial Markets, LM82) at University of Milano-Bicocca; 09/2024-10/2026; grade: 110/110 cum laude
 
 ---
 ## Certifications
