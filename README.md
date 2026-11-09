@@ -32,7 +32,12 @@ On this channel, I share my personal projects developed during my years of study
 
 **File pdf (English version only):** [Master’s Thesis](https://github.com/AnnalisaOri/Progetti/blob/main/ORI_TESI.pdf)
 
+**SAS code:**
 
+	1. [Code 01: Data Preparation](https://github.com/AnnalisaOri/Progetti/blob/main/01_data_preparation.sas): Imports the ECB IRB LGD series (Retail, SME, Corporate, Financial Institutions) and the macro-financial series, merges them by quarter, and builds the modelling dataset: first differences, lags up to eight quarters, logit-transformed LGD and the Covid dummy.
+	2.	[Code 02: Diagnostic and variable selection](https://github.com/AnnalisaOri/Progetti/blob/main/02_diagnostics_and_variable_selection.sas): Time-series diagnostics (descriptive statistics, normality, autocorrelation, ADF tests), lag screening of each candidate regressor, multicollinearity check (VIF) and a LASSO robustness check on all candidate variables and lags.
+	3.	[Code 03: The models](https://github.com/AnnalisaOri/Progetti/blob/main/03_models_logit_beta_ols.sas): Estimates the final satellite models for each segment (Logit-OLS, Beta-OLS and an untransformed OLS benchmark), with residual diagnostics, in-sample accuracy measures (MAE, MSE, RMSE) and a comparison of the Logit and Beta fitted values.
+	4.	[Code 04: Scenario Projections](https://github.com/AnnalisaOri/Progetti/blob/main/04_scenario_projection.sas): Projects LGD under Baseline, Adverse and Positive macroeconomic scenarios using the estimated Logit-OLS models, computes the probability-weighted LGD (58% / 21% / 21%) and produces the scenario charts.
 
 ### Binomial Option Pricing Model: From Discrete Time to Black-Scholes
 This repository presents a comprehensive, computational analysis of the Binomial Option Pricing Model (BOPM)—the essential discrete-time framework for derivatives valuation. Implemented using Python simulations in a Jupyter Notebook, this project bridges fundamental theoretical concepts with practical quantitative finance.
